@@ -20,9 +20,9 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="224dp"
-        android:text="TextView Richard MAc Cdgvbcvbom"
+        android:layout_marginBottom="216dp"
+        android:text="TextView Richard tsr Cdgvbcvbom"
         app:layout_constraintBottom_toBottomOf="parent"
-        tools:layout_editor_absoluteX="176dp" />
+        tools:layout_editor_absoluteX="59dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
